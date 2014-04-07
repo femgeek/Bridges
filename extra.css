@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+/* Opmaak voor content pagina */
+#supp_projects{
+display: none;
+}
+header {
+height: 161px;
+}
+article img{
+float: left;
+margin: 0 5px 0 5px;
+}
+#kol_bottom {
+	color:#ff0000;
+	border-color:#ff0000;
+	border-width: 1px;
+	border-style:solid;
+	padding:5px;
+	clear:both;
+	margin: 15px 28px;
+}
